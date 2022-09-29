@@ -1,8 +1,7 @@
-package com.example.c2_p23;
+package com.example.c3_p23;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.graphics.Color;
 import android.graphics.Point;
 import android.os.Bundle;
 import android.view.View;

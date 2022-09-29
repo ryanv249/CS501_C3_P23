@@ -1,4 +1,4 @@
-package com.example.c2_p23;
+package com.example.c3_p23;
 
 import android.content.Context;
 
